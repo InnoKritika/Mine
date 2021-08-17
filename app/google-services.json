@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208903471408",
+    "project_id": "minel-ed84b",
+    "storage_bucket": "minel-ed84b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208903471408:android:6487914a38bb9b0fd3c8f5",
+        "android_client_info": {
+          "package_name": "com.example.minel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208903471408-2gcbbdbr2hige4l3avtto73bm0h7vku8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgWCcc9hD9jJqqibWk-ZXGUv1-8VMt-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208903471408-2gcbbdbr2hige4l3avtto73bm0h7vku8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
